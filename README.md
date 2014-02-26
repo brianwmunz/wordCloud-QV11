@@ -6,7 +6,8 @@ Repository for storing the code for the D3 world cloud extension for QlikView 11
 I don't use all of the options available in this library and keep it pretty bare bones, but I imagine this extension should satisfy most use cases. 
 The properties are fairly straightforward:
 ![alt tag](http://community.qlik.com/servlet/JiveServlet/showImage/2-265261-22843/cloudprops.png)
-The Words dimension is simply the list of words that will be displayed in the cloud
+
+The **Words** dimension is simply the list of words that will be displayed in the cloud
  
 Measurement is an expression which controls the sizes of the words.  This could be anything you'd like to measure the words against.
  
