@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="wordCloud" Description="wordCloud" PageHeight="700">
+  <Dimension Label="Words" Initial="Tags" DropTarget="Tags"/>
+  <Measurement Label="Measurement" Initial="Sum(Tags)" />
+  <Measurement Label="Color Expression" Initial="Sum(Num)" />
+  <Text Label="Minimum Font Size" Type="text"/>
+  <Text Label="Maximum Font Size" Type="text"/>
+  <Initiate Name="Caption.Text" Value="Word Cloud" />
+  <Initiate Name="Chart.BgColor.ColorHex" value="#FFF" />
+  </ExtensionObject>
+
+
+
